@@ -7,7 +7,7 @@
   
   2.重回opkg包管理器
   
-  部分代码来自Davidtall、VIKINGYFY。
+  （部分代码来自Davidtall、VIKINGYFY）
   
   适度精简，确保最大性能发挥，开启内核eBPF，Dae吃鹅优选，建议硬改1GB内存的使用。
   
