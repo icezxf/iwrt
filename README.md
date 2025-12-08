@@ -1,4 +1,4 @@
-# OpenWRT-CI Stable版
+# OpenWRT-CI OPKG版
 京东云亚瑟AX1800pro专属固件包  
 
 有何变化？
